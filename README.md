@@ -44,3 +44,10 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
   </body>
 </html>
 ```
+
+``` shell
+> firease login
+> firebas init # hosting mymarkdown dist
+> npm run build
+> firebase deploy
+```
